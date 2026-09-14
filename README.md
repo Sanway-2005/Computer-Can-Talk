@@ -28,9 +28,13 @@ I have build an Ai assistant that can do help you do debug or write code for you
 ### STEP-3 
 1) **TYPE THE FOLLOWING COMMANDS**
 a) python -m venv .venv
+
 b) .venv\Scripts\activate
+
 c) pip install -r req.txt
+
 d)clear
+
 e) python Agents\app.py
 
 WOOOOOO THE AGENT IS NOW ONLINE DEMO :-
