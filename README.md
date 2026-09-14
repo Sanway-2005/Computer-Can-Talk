@@ -21,21 +21,28 @@ I have build an Ai assistant that can do help you do debug or write code for you
         
 ### STEP-2
 1) Download Python Version 3.10.9 https://www.python.org/
-2) Open Terminal and go to the Folder where all the files is Located
+
+2)Download **OLLAMA**
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/d9b31a44-541a-4bf5-9143-d1494bd34757" />
+
+3) Open Terminal and go to the Folder where all the files is Located
 
 <img width="600" height="447" alt="image" src="https://github.com/user-attachments/assets/11897b3b-110a-4ca3-8fc4-2f992fee82c7" />
 
 ### STEP-3 
 1) **TYPE THE FOLLOWING COMMANDS**
-a) python -m venv .venv
 
-b) .venv\Scripts\activate
+a)ollama pull qwen3:1.7b
 
-c) pip install -r req.txt
+b) python -m venv .venv
 
-d)clear
+c) .venv\Scripts\activate
 
-e) python Agents\app.py
+d) pip install -r req.txt
+
+e)clear
+
+f) python Agents\app.py
 
 WOOOOOO THE AGENT IS NOW ONLINE DEMO :-
 
