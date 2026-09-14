@@ -42,7 +42,10 @@ WOOOOOO THE AGENT IS NOW ONLINE DEMO :-
 <img width="1467" height="322" alt="image" src="https://github.com/user-attachments/assets/c8cc814d-0411-4114-8d1f-c293f9fd9035" />
 
 ## AGENTS COMMANDS
+
 COMMANDS
 C:[your Prompt] {Coding agent will reply}
+
 W1:[Your Prompt] {Email Analist will reply who can Check your mail}
+
 **Remember Only The memory Agent will remember your name Whom Your taliking withon anny Command**
