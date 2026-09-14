@@ -20,4 +20,5 @@ I have build an Ai assistant that can do help you do debug or write code for you
 
         
 ### STEP-2
-
+1) Download Python Version 3.10.9 https://www.python.org/
+2) Open Terminal and go to the Folder where all the files is Located
