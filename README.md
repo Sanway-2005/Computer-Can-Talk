@@ -16,7 +16,7 @@ I have build an Ai assistant that can do help you do debug or write code for you
 
       ii) Use the Search bar and Type App Password and click it 
 
-       <img width="922" height="693" alt="image" src="https://github.com/user-attachments/assets/05db2590-470b-4ed0-909c-d5f3d2760dfd" />
+  <img width="922" height="693" alt="image" src="https://github.com/user-attachments/assets/05db2590-470b-4ed0-909c-d5f3d2760dfd" />
 
         Write App name Of your choice and click create and copy that password and put it into the env file under EMAIL_PASSWORD
 
