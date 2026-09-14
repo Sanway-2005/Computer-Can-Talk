@@ -23,6 +23,7 @@ I have build an Ai assistant that can do help you do debug or write code for you
 1) Download Python Version 3.10.9 https://www.python.org/
 
 2)Download **OLLAMA**
+
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/d9b31a44-541a-4bf5-9143-d1494bd34757" />
 
 3) Open Terminal and go to the Folder where all the files is Located
