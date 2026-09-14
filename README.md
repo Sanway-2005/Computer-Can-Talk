@@ -48,4 +48,4 @@ C:[your Prompt] {Coding agent will reply}
 
 W1:[Your Prompt] {Email Analist will reply who can Check your mail}
 
-**Remember Only The memory Agent will remember your name Whom Your taliking withon anny Command**
+**Remember Only The memory Agent will remember your name Whom Your taliking without any Command**
