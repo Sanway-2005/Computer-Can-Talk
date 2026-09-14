@@ -21,4 +21,4 @@ I have build an Ai assistant that can do help you do debug or write code for you
         Write App name Of your choice and click create and copy that password and put it into the env file under EMAIL_PASSWORD
 
         
-### STEP-2
+#### STEP-2
