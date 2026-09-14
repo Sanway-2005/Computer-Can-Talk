@@ -8,17 +8,15 @@ I have build an Ai assistant that can do help you do debug or write code for you
 2) open the .env file
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/15adede2-b03f-411d-be23-6c47cafb4ec9" />
  
- a)Fill The email account with your email **Recommended Use Test mail**
+3)Fill The email account with your email **Recommended Use Test mail**
   
- b) Fill the Email Password **This is not your Email Password**
-      
-      i) go to the link  [Link Text]https://myaccount.google.com/
-
-      ii) Use the Search bar and Type App Password and click it 
+4) Fill the Email Password **This is not your Email Password**
+5) go to the link  [Link Text]https://myaccount.google.com/
+6) Use the Search bar and Type App Password and click it 
 
   <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/05db2590-470b-4ed0-909c-d5f3d2760dfd" />
 
-        Write App name Of your choice and click create and copy that password and put it into the env file under EMAIL_PASSWORD
+7)Write App name Of your choice and click create and copy that password and put it into the env file under EMAIL_PASSWORD
 
         
 #### STEP-2
