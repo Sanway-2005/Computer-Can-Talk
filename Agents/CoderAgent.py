@@ -30,7 +30,7 @@ def write_file(file_path:str, content:str):
         with open(file_path, "w") as file:
             file.write(f"{content}")
     except Exception as e:
-        return f"Error : \n{e}"
+        return f"Error : \n{e} Retry"
 
 @tool
 def read_file(file_path:str,n:int):
@@ -63,8 +63,10 @@ agent = Agent(model=model,
 system_prompt = """
 You are a Coding Assistant. You write, read, and debug code using the available file tools.
 
-**IF AN ONLY IF**
-USER want anything to open in notepad use the tool read_file with n value 1
+**Tools YOU HAVE **
+1) create_file [For creating purpose]
+2)write_file [For writing purpose]
+3)read_file [for reading the content of the file and opning it]
 """,
 callback_handler=suppress_events
 )
@@ -74,3 +76,5 @@ def coder_assistant(prompt:str):
 
     return agent(prompt=prompt)
 
+
+    
