@@ -3,7 +3,7 @@ I have build an Ai assistant that can do help you do debug or write code for you
 
 ## HOW TO RUN THE AI ASSISTANT
 
-#### STEP-1
+### STEP-1
 1) Download The Entire Code Base From The Git HUb
 2) open the .env file
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/15adede2-b03f-411d-be23-6c47cafb4ec9" />
@@ -19,4 +19,5 @@ I have build an Ai assistant that can do help you do debug or write code for you
 7)Write App name Of your choice and click create and copy that password and put it into the env file under EMAIL_PASSWORD
 
         
-#### STEP-2
+### STEP-2
+
