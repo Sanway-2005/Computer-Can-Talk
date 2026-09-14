@@ -9,5 +9,14 @@ I have build an Ai assistant that can do help you do debug or write code for you
 <img width="826" height="282" alt="image" src="https://github.com/user-attachments/assets/15adede2-b03f-411d-be23-6c47cafb4ec9" />
  
   a)Fill The email account with your email **Recommended Use Test mail**
+  
   b) Fill the Email Password **This is not your Email Password**
+      
       i) go to the link  [Link Text]https://myaccount.google.com/
+
+      ii) Use the Search bar and Type App Password and click it 
+
+       <img width="922" height="693" alt="image" src="https://github.com/user-attachments/assets/05db2590-470b-4ed0-909c-d5f3d2760dfd" />
+
+        Write App name Of your choice and click create and copy that password and put it into the env file under EMAIL_PASSWORD
+
